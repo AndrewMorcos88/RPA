@@ -1,1 +1,0 @@
-This is a project using **Uipath** to create a process which optmizes the cost of transportation from warehouses.
